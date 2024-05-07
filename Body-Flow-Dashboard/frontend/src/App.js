@@ -6,7 +6,7 @@ function App() {
       <header className="">
         <a
           className=""
-          href="https://github.com/sarai-ii/BodyFlow-Front-End"
+          href="https://github.com/Sarai-ii/BodyFlow-FrontEnd"
         >
           Local Repository
         </a>
