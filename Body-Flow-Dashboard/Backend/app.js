@@ -10,6 +10,6 @@ app.use(cors());
 
 //CONTROLLERS
 //HEALTH CHECK ROUTE
-app.get("/", (req, res) => res.status(200).json({data: `Hello World`}))
+// app.get("/", (req, res) => res.status(200).json({data: `Hello World`}))
 
 module.exports = app
