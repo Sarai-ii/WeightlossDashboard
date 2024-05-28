@@ -1,5 +1,5 @@
 //DEPENDENCIES
-import { useRoutes } from 'react-router-dom'
+// import { useRoutes } from 'react-router-dom'
 // Stylesheet
 import './App.css';
 // Firebase
