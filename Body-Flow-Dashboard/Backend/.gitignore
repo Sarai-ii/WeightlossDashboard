@@ -1,5 +1,11 @@
+# dependencies
+node_modules/
+
 # secrets
 .env
 
-# dependencies
-node_modules/
+# .gitignore
+.env
+
+# Service Account Key
+firebase/BodyFlowServiceAccountKey.json
